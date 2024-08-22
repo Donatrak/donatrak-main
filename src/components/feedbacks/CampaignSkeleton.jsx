@@ -1,5 +1,3 @@
-import React from "react";
-
 export const CampaignSkeleton = () => {
   return (
     <div className="animate-pulse">
